@@ -5,7 +5,8 @@ import java.util.Scanner;
 
 public class GlobalEconomyMain {
 	
-	private static final int REGISTER_COUNTRY = 1;
+	private static final int REGISTER_COUNTRY = 1;;
+	
 	private static final int PRINT_COUNTRIES = 2;
 	private static final int PRINT_COUNTRY = 3;
 	private static final int INJECT_MONEY = 4;
