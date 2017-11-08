@@ -10,7 +10,7 @@ public class GlobalEconomyMain {
 	private static final int PRINT_COUNTRY = 3;
 	private static final int INJECT_MONEY = 4;
 	private static final int PAY_DEBT = 5;
-	private static final int QUIT = 6;
+	private static final int QUIT = 6000;
 		
 	private Country[] countries;
 	private int registeredCountries;
